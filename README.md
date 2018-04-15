@@ -58,7 +58,7 @@ A YOLOv2 object detection model (tiny) was trained based on this dataset using `
 | Red     | 0.796 | 0.739 | 0.602 |
 | Green     | 0.734 | 0.688 | 0.601 |
 
-The model including the config file can be found [here](https://github.com/patVlnta/Ampel-Pilot-Dataset/blob/master/model/model.weights).
+The model including the config file can be found [here](https://github.com/patVlnta/Ampel-Pilot-Dataset/blob/master/model).
 
 ## Contributions
 
