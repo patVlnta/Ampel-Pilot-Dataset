@@ -1,7 +1,7 @@
 # Ampel-Pilot-Dataset
 Pedestrian traffic light image dataset (Germany)
 
-![Preview](https://github.com/patVlnta/Ampel-Pilot-Dataset/blob/master/preview/dataset_preview.jpeg "Dataset Preview")
+![Preview](https://github.com/patVlnta/Ampel-Pilot-Dataset/blob/master/preview/dataset_preview.jpg "Dataset Preview")
 
 The dataset has been collected in a joint effort between the Hochschule Augsburg and the University of Tuebingen. Students were able to contribute
 by sending their pictures of pedestrian traffic lights with the LightsCatcher application.
